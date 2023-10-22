@@ -1,0 +1,34 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 60px;
+}
+#count{
+    font-size: 80px;
+}
+div{
+    text-align: center;
+}
+
+.btn{
+    background-color: #232323;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    border: 1px solid #232323;
+    cursor: pointer;
+}
+.btn:hover{
+    background: aliceblue;
+    
+    color: #232323;
+}
+
+         
+
+ 
